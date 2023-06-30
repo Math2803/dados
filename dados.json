@@ -1,0 +1,12 @@
+{
+	"professions": [
+		{
+			"English":"Engineer",
+			"Translation":"Engenheiro"
+		},
+		{
+			"English":"Actor",
+			"translation":"Ator"
+		}
+	]
+}
