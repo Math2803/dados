@@ -1,5 +1,5 @@
 {
-	"professions": [
+	"Professions": [
 		{
 			"English":"Engineer",
 			"Translation":"Engenheiro"
@@ -11,6 +11,16 @@
 		{
 			"English":"Fireman",
 			"Translation":"Bombeiro"
+		}
+	],
+	"Animals": [
+		{
+			"English":"Bird",
+			"Translation":"Passaro"
+		},
+		{
+			"English":"Fish",
+			"Translation":"Peixe"
 		}
 	]
 }
