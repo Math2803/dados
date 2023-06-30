@@ -21,6 +21,14 @@
 		{
 			"English":"Fireman",
 			"Translation":"Bombeiro"
+		},
+		{
+			"English":"Policeman",
+			"Translation":"Policial"
+		},
+		{
+			"English":"Postman":"Carteiro",
+			"Translation":"Carteiro"
 		}
 	],
 	"Animals": [
@@ -31,6 +39,18 @@
 		{
 			"English":"Fish",
 			"Translation":"Peixe"
+		},
+		{
+			"English":'Aligator",
+			"Translation":"Jacaré"
+		},
+		{
+			"English":"Rabbit",
+			"Translation":"Coelho"
+		},
+		{
+			"English":"Shark",
+			"Translation":"Tubarao"
 		}
 	]
 }
