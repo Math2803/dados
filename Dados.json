@@ -1,4 +1,14 @@
 {
+	"Vocabulary": [
+		{
+			"Name": "Professions",		
+			"Lesson":"Lesson 1"
+		},
+		{
+			"Name":"Animals",
+			"Lesson":"Lesson 2"
+		}
+	],
 	"Professions": [
 		{
 			"English":"Engineer",
