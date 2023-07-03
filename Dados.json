@@ -1,56 +1,60 @@
 {
-	"Vocabulary":[
+	"Vocabulary": [
 		{
-			"Name": "Professions",		
-			"Lesson":"Lesson 1"
+			"Name": "Professions",
+			"Lesson": "Lesson 1"
 		},
 		{
-			"Name":"Animals",
-			"Lesson":"Lesson 2"
+			"Name": "Animals",
+			"Lesson": "Lesson 2"
 		}
 	],
 	"Professions": [
 		{
-			"English":"Engineer",
-			"Translation":"Engenheiro"
+			"English": "Engineer",
+			"Translation": "Engenheiro"
 		},
 		{
-			"English":"Actor",
-			"Translation":"Ator"
+			"English": "Actor",
+			"Translation": "Ator"
 		},
 		{
-			"English":"Fireman",
-			"Translation":"Bombeiro"
+			"English": "Fireman",
+			"Translation": "Bombeiro"
 		},
 		{
-			"English":"Policeman",
-			"Translation":"Policial"
+			"English": "Policeman",
+			"Translation": "Policial"
 		},
 		{
-			"English":"Postman",
-			"Translation":"Carteiro"
+			"English": "Postman",
+			"Translation": "Carteiro"
+		},
+		{
+			"English": "Actress",
+			"Translation": "Atriz"
 		}
 	],
 	"Animals": [
 		{
-			"English":"Bird",
-			"Translation":"Passaro"
+			"English": "Bird",
+			"Translation": "Passaro"
 		},
 		{
-			"English":"Fish",
-			"Translation":"Peixe"
+			"English": "Fish",
+			"Translation": "Peixe"
 		},
 		{
-			"English":"Aligator",
-			"Translation":"Jacaré"
+			"English": "Aligator",
+			"Translation": "Jacaré"
 		},
 		{
-			"English":"Rabbit",
-			"Translation":"Coelho"
+			"English": "Rabbit",
+			"Translation": "Coelho"
 		},
 		{
-			"English":"Shark",
-			"Translation":"Tubarao"
+			"English": "Shark",
+			"Translation": "Tubarao"
 		}
 	]
 }
