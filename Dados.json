@@ -5,6 +5,10 @@
 			"Lesson": "Lesson 1"
 		},
 		{
+			"Name": "Country",
+			"Lesson":"Lesson 2"
+		},
+		{
 			"Name": "Animals",
 			"Lesson": "Lesson 3"
 		}
@@ -34,6 +38,12 @@
 			"English": "Actress",
 			"Translation": "Atriz"
 		}
+	],
+	"Country":[
+		{
+			"English": "Brazil",
+			"Translation":"Brasil"
+		}	
 	],
 	"Animals": [
 		{
